@@ -1,0 +1,8 @@
+baseURL = 'https://scuttlebutt.report/'
+languageCode = 'en-us'
+title = 'Scuttlebutt Report'
+theme = 'anatole'
+
+[params]
+  author = "Tomi"
+  description = "Maritime OSINT investigations"
