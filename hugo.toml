@@ -1,4 +1,4 @@
-baseURL = 'https://scuttlebutt.report/'
+baseURL = "https://medium-rare-bagel.github.io/scuttlebutt-site/"
 languageCode = 'en-us'
 title = 'Scuttlebutt Report'
 theme = 'anatole'
