@@ -20,4 +20,5 @@ theme = 'anatole'
 
 [params]
   author = "Tomi"
+  profilePicture = "images/Tomi_Profile_BW-alpha.png"
   description = "Maritime OSINT investigations"
