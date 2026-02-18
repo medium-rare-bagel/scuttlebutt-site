@@ -24,7 +24,7 @@ Guide to the Bellingcat Search Grid Generator, a tool built with the Discord vol
 ## Projects
 
 [Oceans of Evidence](https://challenge.bellingcat.com/) - Bellingcat Open Source Challenge Series, November 2025.
-A five-part maritime OSINT challenge series covering vessel tracking, AIS data analysis, and open-source investigation techniques. Authored all five challenges for the Bellingcat community challenge platform.
+Five maritime OSINT challenges authored for the Bellingcat community platform: *Strait Through* (vessel geolocation), *Terminal Difficulty* (port identification), *Frozen Assets* (sanctions evasion), *Cable Conundrum* (subsea infrastructure), and *Zombies!* (shadow fleet vessel tracking).
 
 [U.S. Military Strikes in Latin America and the Caribbean](https://airwars.org/conflict/u-s-military-in-latin-america-and-the-caribbean/) - Airwars (ongoing).
 Conflict monitoring and data visualization tracking U.S. military strikes in the region since September 2025.
