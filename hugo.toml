@@ -21,7 +21,7 @@ theme = 'anatole'
 [params]
   author = "Tomi"
   profilePicture = "images/Tomi_Profile_BW-alpha.png"
-  description = "Maritime OSINT researcher and conflict investigator. Tracking vessels, military operations, and accountability gaps in Latin America, the Caribbean, and Eastern Pacific."
+  description = "Maritime OSINT researcher and conflict investigator. Tracking vessels, military operations, and accountability gaps across Latin America, the Caribbean, and the Eastern Pacific.
 
 [[params.socialIcons]]
   icon = "fa-brands fa-bluesky"
