@@ -21,4 +21,9 @@ theme = 'anatole'
 [params]
   author = "Tomi"
   profilePicture = "images/Tomi_Profile_BW-alpha.png"
-  description = "Maritime OSINT investigations"
+  description = "Maritime OSINT researcher and conflict investigator. Tracking vessels, military operations, and accountability gaps in Latin America, the Caribbean, and Eastern Pacific."
+
+[[params.socialIcons]]
+  icon = "fa-brands fa-bluesky"
+  title = "Bluesky"
+  url = "https://bsky.app/profile/tomi-mcc.bsky.social"
