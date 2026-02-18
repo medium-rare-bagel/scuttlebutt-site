@@ -16,7 +16,7 @@ Methodology companion to the Intercept investigation. Details the OSINT techniqu
 [Tracking Your Search: A Guide to the Grid Generator](https://www.bellingcat.com/resources/how-tos/2024/08/05/tracking-your-search-a-guide-to-the-grid-generator/) - Bellingcat, August 5, 2024. Co-authored with Galen Reich.
 Guide to the Bellingcat Search Grid Generator, a tool built with the Discord volunteer community for systematic satellite imagery analysis.
 
-*Research contributions:*
+### Research contributions:
 
 - [Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row](https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/) - Bellingcat, September 10, 2025. Research contribution as part of Bellingcat's Global Authentication Project.
 - [The civilian impact of Trump's Venezuela raid](https://airwars.org/conflict/us-forces-in-venezuela/) - Airwars, January 29, 2026. Contributed to conflict monitoring documentation.
