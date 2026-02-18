@@ -19,6 +19,7 @@ Guide to the Bellingcat Search Grid Generator, a tool built with the Discord vol
 ### Research contributions:
 
 [Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row](https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/) - Bellingcat, September 10, 2025. Research contribution as part of Bellingcat's Global Authentication Project.
+
 [The civilian impact of Trump's Venezuela raid](https://airwars.org/conflict/us-forces-in-venezuela/) - Airwars, January 29, 2026. Contributed to conflict monitoring documentation.
 
 ## Projects
