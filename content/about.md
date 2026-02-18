@@ -17,4 +17,5 @@ On the technical side, I build LLM-assisted tools and workflows for open source 
 I speak Spanish.
 
 Contact: [tomi@scuttlebutt.report](mailto:tomi@scuttlebutt.report)
+
 Signal: tomi_mccluskey.86
