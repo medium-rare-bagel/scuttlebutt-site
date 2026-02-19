@@ -7,7 +7,7 @@ author = "Tomi"
 
 ## Published work
 
-[Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/) - Bellingcat, February 19, 2026. Co-authored with [Christian Panton](https://www.bellingcat.com/author/christianpanton/), [Logan Williams](https://www.bellingcat.com/author/loganwilliams/), and [Ross Higgins](https://www.bellingcat.com/author/rosshiggins/).
+[Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/) - Bellingcat, February 19, 2026. Co-authored with [Christian Panton](https://christian.panton.org), [Logan Williams](https://www.bellingcat.com/author/loganwilliams/), and [Ross Higgins](https://www.bellingcat.com/author/rosshiggins/).
 Investigation into Captain Suniel Kumar Sharma and his network of fraudulent maritime registries - including IMSAG (Guyana), NIATA (Nicaragua), and Nautilus Register - which have issued false flags and paperwork to sanctioned tankers and shadow fleet vessels across multiple jurisdictions.
 
 
