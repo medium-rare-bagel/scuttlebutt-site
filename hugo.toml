@@ -19,6 +19,7 @@ theme = 'anatole'
   weight = 300
 
 [params]
+  title = "Tomi McCluskey"
   author = "Tomi"
   profilePicture = "images/Tomi_Profile_BW-alpha.png"
   description = "Maritime OSINT researcher and conflict investigator. Tracking vessels, military operations, and accountability gaps across Latin America, the Caribbean, and the Eastern Pacific."
