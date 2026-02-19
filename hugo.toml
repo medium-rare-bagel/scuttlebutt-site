@@ -28,3 +28,6 @@ theme = 'anatole'
   icon = "fa-brands fa-bluesky"
   title = "Bluesky"
   url = "https://bsky.app/profile/tomi-mcc.bsky.social"
+  icon = "fa-solid fa-envelope"
+  title = "Email"
+  url = "mailto:tomi@scuttlebutt.report"
