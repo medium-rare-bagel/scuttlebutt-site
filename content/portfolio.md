@@ -7,6 +7,10 @@ author = "Tomi"
 
 ## Published work
 
+[Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/) - Bellingcat, February 19, 2026. Co-authored with [Christian Panton](https://www.bellingcat.com/author/christianpanton/), [Logan Williams](https://www.bellingcat.com/author/loganwilliams/), and [Ross Higgins](https://www.bellingcat.com/author/rosshiggins/).
+Investigation into Captain Suniel Kumar Sharma and his network of fraudulent maritime registries - including IMSAG (Guyana), NIATA (Nicaragua), and Nautilus Register - which have issued false flags and paperwork to sanctioned tankers and shadow fleet vessels across multiple jurisdictions.
+
+
 [U.S. Sent a Rescue Plane for Boat Strike Survivors. It Took 45 Hours to Arrive.](https://theintercept.com/2026/02/17/boat-strike-trump-southcom-survivors-rescue-plane-hours/) - The Intercept, February 17, 2026. Co-bylined with Nick Turse.
 Used open-source flight tracking data to document delays in U.S. Coast Guard search and rescue after a SOUTHCOM boat strike that killed 11 people. Co-published with Airwars.
 
